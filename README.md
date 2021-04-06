@@ -1,5 +1,4 @@
 # Sample_task
-campaign_project
 Created a simple web application that allows a user to create ad campaigns and display the ad campaigns according to id if campaign is active.
 
 Tools and Techology used:
